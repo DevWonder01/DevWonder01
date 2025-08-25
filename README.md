@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Software Engineer and Founder with **over 7 years of experience** architecting and building mission-critical software in the decentralized finance (DeFi) and high-performance computing space. My expertise lies in creating robust, secure, and scalable systems from the ground up, transforming complex financial concepts into production-ready applications.
+I'm a Software Engineer and Founder with **over 8 years of experience** architecting and building mission-critical software in the decentralized finance (DeFi) and high-performance computing space. My expertise lies in creating robust, secure, and scalable systems from the ground up, transforming complex financial concepts into production-ready applications.
 
 ---
 

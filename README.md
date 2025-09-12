@@ -49,6 +49,5 @@ Throughout my career, I have delivered a wide array of sophisticated systems:
 
 I'm always open to discussing new technologies, collaborating on ambitious projects, or exploring opportunities in the FinTech/DeFi space.
 
-*   **LinkedIn:** Adebayo Taiwo
+
 *   **Twitter / X:** @devwonder01
-*   **Email:** `taiwoadebayo4040@gmail.com`

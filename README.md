@@ -11,4 +11,7 @@ My technical expertise is both deep and broad, allowing me to architect and impl
 *   **Blockchain & Smart Contracts:** `Solidity`, `Rust` (for smart contracts on EVM & other ecosystems)
 *   **Backend & Web Services:** `Typescript` (Node.js), `Python` (for microservices, APIs, and automation)
 *   **Architectural Expertise:** Microservices, Event-Driven Architecture, High-Frequency Trading (HFT) Systems, Network Security (VPNs, SOCKS5), Cloud-Native Infrastructure.
-*   **DeFi Primitives:** AMMs, Order Books, Perpetual Swaps, Lending/Borrowing Phttps://x.com/devwonder01rotocols, MEV Strategies.
+*   **DeFi Primitives:** AMMs, Order Books, Perpetual Swaps, Lending/Borrowing Protocols, MEV Strategies.
+
+Follow on X/Twitter
+https://x.com/devwonder01
